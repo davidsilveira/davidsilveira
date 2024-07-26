@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Linkedin: [David Silveira](https://www.linkedin.com/in/david-silveira)
+
 <!--
 **davidsilveira/davidsilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
